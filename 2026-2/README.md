@@ -20,12 +20,12 @@
 
 | Nome do Aluno | GitHub / Perfil |
 | :--- | :--- |
-| Giulia komatsu Gentil [@usuario1](https://github.com/usuario1) |
-| Isabela Erminia Vieira Teixeira | [@usuario2](https://github.com/usuario2) |
-| Yara Torres| [@usuario3](https://github.com/usuario3) |
-| Geovanna Ciriaco | [@usuario4](https://github.com/usuario4) |
-| Poliana | [@usuario4](https://github.com/usuario4) |
-| Rafaela da Silva Cavalheiro | [@usuario4](https://github.com/usuario4) |
+| Giulia komatsu Gentil [@ giuliagentil](https://github.com/@giuliagentil)|
+| Isabela Erminia Vieira Teixeira | [@ isabelaerminia](https://github.com/isabelaerminia)
+| Yara Torres| [@torresyara] (https://github.com/torresyara)|
+| Geovanna Ciriaco | [@geovannaciriaco17-cell](https://github.com/geovannaciriaco17-cell) |
+| Poliana | [@eupoliana](https://github.com/eupoliana) |
+| Rafaela da Silva Cavalheiro | [@ c-rafaela](https://github.com/c-rafaela) |
 
 ---
 
